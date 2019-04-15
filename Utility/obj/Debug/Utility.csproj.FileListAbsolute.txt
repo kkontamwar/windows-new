@@ -1,0 +1,10 @@
+D:\Harshal\Utility\bin\Debug\Utility.dll
+D:\Harshal\Utility\bin\Debug\Utility.pdb
+D:\Harshal\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+D:\Harshal\Utility\obj\Debug\Utility.dll
+D:\Harshal\Utility\obj\Debug\Utility.pdb
+D:\Harshal\Utility\bin\Debug\NLog.config
+D:\Harshal\Utility\bin\Debug\NLog.dll
+D:\Harshal\Utility\bin\Debug\NLog.xml
+D:\Harshal\Utility\obj\Debug\Utility.csprojAssemblyReference.cache
+D:\Harshal\Utility\obj\Debug\Utility.csproj.CopyComplete
